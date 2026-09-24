@@ -1,4 +1,5 @@
 # learn-cicd-typescript-starter (Notely)
+Ant's version of Boot.dev's Notely app
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
@@ -18,6 +19,8 @@ Run the server:
 npm install
 npm run dev
 ```
+
+
 
 _This starts the server in non-database mode._ It will serve a simple webpage at `http://localhost:8080`.
 
